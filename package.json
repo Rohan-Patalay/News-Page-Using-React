@@ -1,7 +1,7 @@
 {
   "name": "newsapp",
   "version": "0.1.0",
-  "homepage": "https://github.com/Rohan-Patalay/News-Page-Using-React",
+  "homepage": "https://rohan-patalay.github.io/News-Page-Using-React/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
