@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rohan-Patalay/News-Page-Using-React/static/css/main.0e61752e.css",
+    "main.js": "/Rohan-Patalay/News-Page-Using-React/static/js/main.01528085.js",
+    "index.html": "/Rohan-Patalay/News-Page-Using-React/index.html",
+    "main.0e61752e.css.map": "/Rohan-Patalay/News-Page-Using-React/static/css/main.0e61752e.css.map",
+    "main.01528085.js.map": "/Rohan-Patalay/News-Page-Using-React/static/js/main.01528085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e61752e.css",
+    "static/js/main.01528085.js"
+  ]
+}
